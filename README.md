@@ -81,7 +81,7 @@
     ```
 4.  **Çalıştırın:**
     ```bash
-    python Festival_Mapper_Final_V9.pyw
+    python Festival_Mapper.pyw
     ```
 
 ### 🎮 Nasıl Kullanılır?
