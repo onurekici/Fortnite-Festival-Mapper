@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)]()
 
-**Festival Mapper V8**, allows you to use **any USB Guitar Controller** with **Fortnite Festival**, **Clone Hero**, or any rhythm game. It converts your guitar inputs into virtual Xbox 360 controller signals (XInput) or Keyboard presses.
+**Festival Mapper**, allows you to use **any USB Guitar Controller** with **Fortnite Festival**, **Clone Hero**, or any rhythm game. It converts your guitar inputs into virtual Xbox 360 controller signals (XInput) or Keyboard presses.
 
 ---
 
@@ -39,7 +39,7 @@
     ```
 4.  **Run the App:**
     ```bash
-    python Festival_Mapper_Final_V9.pyw
+    python Festival_Mapper.pyw
     ```
 
 ### 🎮 How to Use
