@@ -277,6 +277,10 @@ class FestivalApp(ctk.CTk):
         super().__init__()
         self.geometry("700x800")
         self.resizable(False, False)
+        try:
+            self.iconbitmap("app_icon.ico")
+        except:
+            pass
         
         # --- YAPILANDIRMA YÜKLEME ---
         self.full_config = self.load_config()
@@ -327,7 +331,7 @@ class FestivalApp(ctk.CTk):
         head_frame = ctk.CTkFrame(self, fg_color="#111", height=60)
         head_frame.pack(fill="x")
         
-        self.lbl_title = ctk.CTkLabel(head_frame, text="FESTIVAL MAPPER V8", font=("Impact", 22), text_color="#4CAF50")
+        self.lbl_title = ctk.CTkLabel(head_frame, text="FESTIVAL MAPPER", font=("Impact", 22), text_color="#4CAF50")
         self.lbl_title.pack(side="left", padx=20)
         
         # DİL SEÇİMİ
