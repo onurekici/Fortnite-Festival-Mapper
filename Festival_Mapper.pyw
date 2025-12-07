@@ -17,7 +17,7 @@ CONFIG_FILE = "config.json"
 # --- DİL VERİTABANI ---
 LANGUAGES = {
     "TR": {
-        "title": "FESTIVAL MAPPER V8",
+        "title": "FESTIVAL MAPPER",
         "profile": "Profil:",
         "conn_sec": "1. GİTAR BAĞLANTISI:",
         "btn_conn": "Bağlan",
@@ -44,7 +44,7 @@ LANGUAGES = {
         "err_last_profile": "Son kalan profili silemezsin!"
     },
     "EN": {
-        "title": "FESTIVAL MAPPER V8",
+        "title": "FESTIVAL MAPPER",
         "profile": "Profile:",
         "conn_sec": "1. GUITAR CONNECTION:",
         "btn_conn": "Connect",
@@ -71,7 +71,7 @@ LANGUAGES = {
         "err_last_profile": "Cannot delete the last profile!"
     },
     "ES": {
-        "title": "FESTIVAL MAPPER V8",
+        "title": "FESTIVAL MAPPER",
         "profile": "Perfil:",
         "conn_sec": "1. CONEXIÓN DE GUITARRA:",
         "btn_conn": "Conectar",
@@ -98,7 +98,7 @@ LANGUAGES = {
         "err_last_profile": "¡No puedes borrar el último perfil!"
     },
     "PT": {
-        "title": "FESTIVAL MAPPER V8",
+        "title": "FESTIVAL MAPPER",
         "profile": "Perfil:",
         "conn_sec": "1. CONEXÃO DA GUITARRA:",
         "btn_conn": "Conectar",
@@ -125,7 +125,7 @@ LANGUAGES = {
         "err_last_profile": "Não é possível excluir o último perfil!"
     },
     "RU": {
-        "title": "FESTIVAL MAPPER V8",
+        "title": "FESTIVAL MAPPER",
         "profile": "Профиль:",
         "conn_sec": "1. ПОДКЛЮЧЕНИЕ ГИТАРЫ:",
         "btn_conn": "Подключить",
@@ -152,7 +152,7 @@ LANGUAGES = {
         "err_last_profile": "Нельзя удалить последний профиль!"
     },
     "DE": {
-        "title": "FESTIVAL MAPPER V8",
+        "title": "FESTIVAL MAPPER",
         "profile": "Profil:",
         "conn_sec": "1. GITARRENANSCHLUSS:",
         "btn_conn": "Verbinden",
