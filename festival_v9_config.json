@@ -1,0 +1,55 @@
+{
+    "global": {
+        "language": "EN",
+        "last_profile": "Fortnite Festival"
+    },
+    "profiles": {
+        "Fortnite Festival": {
+            "mapping": {
+                "GREEN": {
+                    "type": "button",
+                    "index": 1
+                },
+                "RED": {
+                    "type": "button",
+                    "index": 2
+                },
+                "YELLOW": {
+                    "type": "button",
+                    "index": 0
+                },
+                "BLUE": {
+                    "type": "button",
+                    "index": 3
+                },
+                "ORANGE": {
+                    "type": "button",
+                    "index": 4
+                },
+                "STRUM_UP": {
+                    "type": "hat_up",
+                    "index": 0
+                },
+                "STRUM_DOWN": {
+                    "type": "hat_down",
+                    "index": 0
+                },
+                "SELECT": {
+                    "type": "button",
+                    "index": 8
+                },
+                "START": {
+                    "type": "button",
+                    "index": 9
+                },
+                "WHAMMY": {
+                    "type": "axis",
+                    "index": 2
+                }
+            },
+            "mode": "XBOX",
+            "tilt_enabled": false,
+            "tilt_axis": null
+        }
+    }
+}
