@@ -12,7 +12,7 @@ import keyboard
 # --- GÖRÜNÜM AYARLARI ---
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("green")
-CONFIG_FILE = "festival_v9_config.json"
+CONFIG_FILE = "config.json"
 
 # --- DİL VERİTABANI ---
 LANGUAGES = {
